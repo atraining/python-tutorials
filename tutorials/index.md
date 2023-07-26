@@ -11,4 +11,5 @@ Why?
 
 addition/index.md
 nan-values/index.md
+lists/index.md
 ```
